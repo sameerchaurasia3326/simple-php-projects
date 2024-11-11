@@ -9,7 +9,7 @@ A simple contact form application built with HTML, CSS, PHP, and JavaScript. It 
 - Sends email with the form data
 
 ## Screenshots
-![Contact Form Screenshot](contact-form/contact)
+![Contact Form Screenshot](contact-form/contact.png)
 
 ## Installation
 1. Clone the repository:
@@ -41,14 +41,14 @@ A simple and interactive To-Do List application to help you manage your daily ta
 - Responsive design for mobile and desktop
 
 ## Screenshots
-![To-Do List Screenshot](contact-form/)
+![To-Do List Screenshot](to-do-list/to-do.png)
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/to-do-list.git
    ```
-2. Navigate to the project directory:
+2. Navigate to the project directory:s
    ```bash
    cd to-do-list
    ```
@@ -71,7 +71,7 @@ A basic web-based file system application built with PHP. It allows users to upl
 - Basic security checks for file uploads
 
 ## Screenshots
-![File System Screenshot](assets/screenshot.png)
+![File System Screenshot](file_system/file.png)
 
 ## Installation
 1. Clone the repository:
