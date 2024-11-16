@@ -181,4 +181,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries, please reach out to:  
-**[your-email@example.com]**
+**[sameerchaurasia3326@gmail.com]**
